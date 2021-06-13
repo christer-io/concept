@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="fb21d63d-2d07-41e6-9063-fc3b6b648f90">
+      <circle cx="500" cy="500" r="325" fill="#7f1dff"/>
+    </clipPath>
+    <clipPath id="aa311fd7-f5a2-48aa-9c50-89ccc9a62eb7">
+      <ellipse cx="592" cy="294.5" rx="46" ry="37.5" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="f1b1b62b-6657-4194-87b6-12020c1506e0" data-name="Layer 3">
+    <g id="e7302979-c840-4502-8822-8eaa696afafa" data-name="Layer 4">
+      <g>
+        <g>
+          <circle cx="500" cy="500" r="325" fill="#7f1dff"/>
+          <g clip-path="url(#fb21d63d-2d07-41e6-9063-fc3b6b648f90)">
+            <path d="M408,175s280,41,267,306c-9.49,193.35-312,388-518,117l18,115L465,899,797,774,902,500,859,257,615,115Z" fill="#4a00bf" opacity="0.7"/>
+          </g>
+        </g>
+        <circle cx="511" cy="481" r="46" fill="#fff"/>
+        <g>
+          <ellipse cx="592" cy="294.5" rx="46" ry="37.5" fill="#fff"/>
+          <g clip-path="url(#aa311fd7-f5a2-48aa-9c50-89ccc9a62eb7)">
+            <path d="M408,175s280,41,267,306c-9.49,193.35-312,388-518,117l18,115L465,899,797,774,902,500,859,257,615,115Z" fill="#b9b9ea"/>
+          </g>
+        </g>
+        <ellipse cx="303.42" cy="373.39" rx="46" ry="37.5" transform="translate(-175.15 323.91) rotate(-45)" fill="#fff"/>
+        <ellipse cx="332.42" cy="655.39" rx="37.5" ry="46" transform="translate(-402.44 658.87) rotate(-63.38)" fill="#fff"/>
+        <ellipse cx="563.42" cy="713.39" rx="46" ry="37.5" transform="translate(-143.55 141.93) rotate(-12.75)" fill="#b9b9ea"/>
+        <ellipse cx="726.42" cy="527.39" rx="46" ry="37.5" transform="matrix(0.54, -0.84, 0.84, 0.54, -110.27, 852.62)" fill="#b9b9ea"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="b663bec0-2bfe-4366-9b77-f57f129b2e02">
+      <path d="M262.44,720.17,475.67,203.1c8.94-21.69,39.66-21.69,48.6,0L737.5,720.17Z" fill="#ff8b00"/>
+    </clipPath>
+    <clipPath id="bb9e9d9d-33b1-42c9-a619-3b2148e0de39">
+      <rect x="192" y="698.17" width="616" height="115" fill="#feab3a"/>
+    </clipPath>
+  </defs>
+  <g id="b5d7566a-72f0-45e6-af89-41941ce03554" data-name="Layer 3">
+    <g id="aa48893e-afce-431f-ab47-08b3100a4c08" data-name="Layer 4">
+      <g>
+        <g>
+          <path d="M262.44,720.17,475.67,203.1c8.94-21.69,39.66-21.69,48.6,0L737.5,720.17Z" fill="#ff8b00"/>
+          <g clip-path="url(#b663bec0-2bfe-4366-9b77-f57f129b2e02)">
+            <rect x="296" y="563.17" width="428" height="62" fill="#fff" opacity="0.8"/>
+            <rect x="296" y="391.17" width="428" height="62" fill="#fff" opacity="0.8"/>
+            <polygon points="774.81 698.17 514 153.17 495 146.17 537.91 674.17 257 674.17 257 755.17 745 755.17 745 704.86 774.81 698.17" fill="#d85107" opacity="0.35"/>
+          </g>
+        </g>
+        <g>
+          <rect x="192" y="698.17" width="616" height="115" fill="#feab3a"/>
+          <g clip-path="url(#bb9e9d9d-33b1-42c9-a619-3b2148e0de39)">
+            <polygon points="577 665.17 577 835.17 858 830.17 828 665.17 577 665.17" fill="#d85107" opacity="0.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

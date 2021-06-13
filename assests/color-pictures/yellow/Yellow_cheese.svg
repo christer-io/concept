@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="f0f6ad95-1d0f-4d4c-b608-f88bd87c50e3">
+      <path d="M848.43,527.9a22.44,22.44,0,0,1,6.49,1l8.58-91.36C736.68,225.3,486.82,257.94,486.82,257.94L136.5,521.62,141.26,606a37.67,37.67,0,1,1,4,71.25l3.77,66.65,693.09-79.1L850.77,573a22.6,22.6,0,1,1-2.34-45.08Z" fill="#ffd522"/>
+    </clipPath>
+    <clipPath id="ab7b5003-6bca-42c8-a266-5e87a733942a">
+      <ellipse cx="703.41" cy="399.83" rx="43.32" ry="22.6" fill="#ffba1f" stroke="#f78f1e" stroke-miterlimit="10" opacity="0.6"/>
+    </clipPath>
+    <clipPath id="f9f17e8d-ced3-44d0-87eb-9ba756d18076">
+      <ellipse cx="333.63" cy="439.3" rx="32.65" ry="17.03" fill="#ffba1f" stroke="#f78f1e" stroke-miterlimit="10" opacity="0.6"/>
+    </clipPath>
+    <clipPath id="ad83b900-4395-434e-92cd-afea6f3ea766">
+      <ellipse cx="500.63" cy="392.84" rx="32.65" ry="17.03" fill="#ffba1f" stroke="#f78f1e" stroke-miterlimit="10" opacity="0.6"/>
+    </clipPath>
+    <clipPath id="b074f860-f8db-4034-82be-5604792b9127">
+      <ellipse cx="573.45" cy="287.42" rx="30.13" ry="15.72" fill="#ffba1f" stroke="#f78f1e" stroke-miterlimit="10" opacity="0.6"/>
+    </clipPath>
+  </defs>
+  <g style="isolation: isolate">
+    <g id="a4fd0322-9e08-413f-8460-6787f7ef3fd1" data-name="Layer 3">
+      <g id="b7aa13e8-a69e-48a1-b909-bc96389b6d93" data-name="Layer 4">
+        <polyline points="575.1 259.08 575.1 318 615 289 606 270 575.1 259.08" fill="#e2741a"/>
+        <g>
+          <g>
+            <path d="M848.43,527.9a22.44,22.44,0,0,1,6.49,1l8.58-91.36C736.68,225.3,486.82,257.94,486.82,257.94L136.5,521.62,141.26,606a37.67,37.67,0,1,1,4,71.25l3.77,66.65,693.09-79.1L850.77,573a22.6,22.6,0,1,1-2.34-45.08Z" fill="#ffd522"/>
+            <g clip-path="url(#f0f6ad95-1d0f-4d4c-b608-f88bd87c50e3)">
+              <path d="M527,168.79S628,315.7,590,465.12h0L306,743.86l575.07-70.31L902.42,391l-275-210.95Z" fill="#ffd522" opacity="0.44" style="mix-blend-mode: multiply"/>
+              <polygon points="106.36 521.62 912.47 427.45 844.67 693.64 136.5 768.98 106.36 521.62" fill="#ffba1f" opacity="0.6"/>
+              <circle cx="544.57" cy="689.87" r="37.67" fill="#ef9b06" stroke="#ef7f0f" stroke-miterlimit="10" opacity="0.6"/>
+              <g>
+                <ellipse cx="703.41" cy="399.83" rx="43.32" ry="22.6" fill="#ffba1f" opacity="0.6"/>
+                <g clip-path="url(#ab7b5003-6bca-42c8-a266-5e87a733942a)">
+                  <polygon points="701 365 701 441 760 412 754 374 701 365" fill="#e87e15" opacity="0.45"/>
+                </g>
+                <ellipse cx="703.41" cy="399.83" rx="43.32" ry="22.6" fill="none" stroke="#f78f1e" stroke-miterlimit="10" opacity="0.6"/>
+              </g>
+              <g>
+                <ellipse cx="333.63" cy="439.3" rx="32.65" ry="17.03" fill="#ffba1f" opacity="0.6"/>
+                <g clip-path="url(#f9f17e8d-ced3-44d0-87eb-9ba756d18076)">
+                  <polygon points="334 413 336 462 367 456 375 433 334 413" fill="#e87e15" opacity="0.45"/>
+                </g>
+                <ellipse cx="333.63" cy="439.3" rx="32.65" ry="17.03" fill="none" stroke="#f78f1e" stroke-miterlimit="10" opacity="0.6"/>
+              </g>
+              <g>
+                <ellipse cx="500.63" cy="392.84" rx="32.65" ry="17.03" fill="#ffba1f" opacity="0.6"/>
+                <g clip-path="url(#ad83b900-4395-434e-92cd-afea6f3ea766)">
+                  <polygon points="504 363 504 427 544 398 537 369 504 363" fill="#e87e15" opacity="0.45"/>
+                </g>
+                <ellipse cx="500.63" cy="392.84" rx="32.65" ry="17.03" fill="none" stroke="#f78f1e" stroke-miterlimit="10" opacity="0.6"/>
+              </g>
+              <g>
+                <ellipse cx="573.45" cy="287.42" rx="30.13" ry="15.72" fill="#ffba1f" opacity="0.6"/>
+                <g clip-path="url(#b074f860-f8db-4034-82be-5604792b9127)">
+                  <polyline points="575.1 259.08 575.1 318 624 289 614.89 265.37 575.1 259.08 575.1 259.08" fill="#e87e15" opacity="0.45"/>
+                </g>
+                <ellipse cx="573.45" cy="287.42" rx="30.13" ry="15.72" fill="none" stroke="#f78f1e" stroke-miterlimit="10" opacity="0.6"/>
+              </g>
+            </g>
+          </g>
+          <circle cx="774.35" cy="465.12" r="37.67" fill="#ef9b06" stroke="#ef7f0f" stroke-miterlimit="10" opacity="0.6"/>
+          <circle cx="447.89" cy="532.92" r="26.37" fill="#ef9b06" stroke="#ef7f0f" stroke-miterlimit="10" opacity="0.6"/>
+          <circle cx="614.89" cy="634.63" r="26.37" fill="#ef9b06" stroke="#ef7f0f" stroke-miterlimit="10" opacity="0.6"/>
+          <circle cx="310.4" cy="667.9" r="33.27" fill="#ef9b06" stroke="#ef7f0f" stroke-miterlimit="10" opacity="0.6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="abb3bdce-721d-4569-abc7-d3fb26e9a88b">
+      <path d="M550.16,418.18H449.84V275a22.36,22.36,0,0,1,7.52-16.73l63.56-56.5a17.57,17.57,0,0,1,29.24,13.13Z" fill="#a361ff"/>
+    </clipPath>
+    <clipPath id="b92db1e8-d922-4cca-a279-afd4db183c9c">
+      <rect x="424.76" y="363.85" width="150.47" height="242.43" rx="18.04" fill="#c9c9f4"/>
+    </clipPath>
+    <clipPath id="ab1543f8-e016-4547-8c12-728ee20bdc2d">
+      <rect x="401.08" y="560.3" width="197.84" height="242.43" rx="18.04" fill="#7900ff"/>
+    </clipPath>
+  </defs>
+  <g id="b4a82c50-492a-4654-9a2f-b72728cbe556" data-name="Layer 3">
+    <g id="e5fe57e0-f484-4b0b-9e15-79580efe5def" data-name="Layer 4">
+      <g>
+        <g>
+          <path d="M550.16,418.18H449.84V275a22.36,22.36,0,0,1,7.52-16.73l63.56-56.5a17.57,17.57,0,0,1,29.24,13.13Z" fill="#a361ff"/>
+          <g clip-path="url(#abb3bdce-721d-4569-abc7-d3fb26e9a88b)">
+            <path d="M520.9,168.79s27.86,211.78-96.14,178.34l33.44,48.76,117-7V178.54Z" fill="#7900ff"/>
+          </g>
+        </g>
+        <g>
+          <rect x="424.76" y="363.85" width="150.47" height="242.43" rx="18.04" fill="#c9c9f4"/>
+          <g clip-path="url(#b92db1e8-d922-4cca-a279-afd4db183c9c)">
+            <path d="M534.83,351.31s30.65,196.45-121.21,197.84L415,584l174.16-5.57-1.39-224.32Z" fill="#b9b9ea"/>
+          </g>
+        </g>
+        <g>
+          <rect x="401.08" y="560.3" width="197.84" height="242.43" rx="18.04" fill="#7900ff"/>
+          <g clip-path="url(#ab1543f8-e016-4547-8c12-728ee20bdc2d)">
+            <path d="M557.12,540.79S561.3,747,527.87,762.32s-154.66,15.32-154.66,15.32l51.55,51.55,164.41-7,43.19-32.05L621.21,539.4Z" fill="#4a00bf" opacity="0.7"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="f750a2c9-2cd1-4bdf-bf43-4dab12771e6f">
+      <path d="M92,445.76s112.92-83.09,242.88,0c0,0,124.64-103.33,308.93,0,0,0,111.86-99.07,264.19,0,0,0-18.11-323.84-408-323.84S92,445.76,92,445.76Z" fill="#ff8b00"/>
+    </clipPath>
+    <clipPath id="eb87e85d-98ee-4dcb-9d83-3dabe5cc5722">
+      <ellipse cx="500.5" cy="120.34" rx="21.5" ry="13.18" fill="#ff9a00"/>
+    </clipPath>
+    <clipPath id="b060f60c-df0a-4226-a486-63f4ade3dd04">
+      <circle cx="1520" cy="500" r="328" fill="#ff8b00"/>
+    </clipPath>
+  </defs>
+  <g id="a1c0f9e9-9be0-4d14-8fd9-3e5063b1eb64" data-name="Layer 3">
+    <g>
+      <rect x="493" y="391.34" width="15" height="412.5" fill="#232533"/>
+      <g>
+        <path d="M92,445.76s112.92-83.09,242.88,0c0,0,124.64-103.33,308.93,0,0,0,111.86-99.07,264.19,0,0,0-18.11-323.84-408-323.84S92,445.76,92,445.76Z" fill="#ff8b00"/>
+        <g clip-path="url(#f750a2c9-2cd1-4bdf-bf43-4dab12771e6f)">
+          <path d="M334.88,445.76S347.67,193.29,500,121.92c0,0,159.79,41.54,143.81,323.84-7.7,136.15-303.6,27.7-303.6,27.7l-5.33-27.7" fill="#ffaa39"/>
+        </g>
+      </g>
+      <g>
+        <ellipse cx="500.5" cy="120.34" rx="21.5" ry="13.18" fill="#ff9a00"/>
+        <g clip-path="url(#eb87e85d-98ee-4dcb-9d83-3dabe5cc5722)">
+          <path d="M494.26,107.16s12.48-1.39,18,5.55-5.55,19.42-25,19.42l11.1,4.16,19.42-4.16,8.32-13.87L522,107.16l-16.65-2.77Z" fill="#a05000" opacity="0.36"/>
+        </g>
+      </g>
+      <path d="M583.5,892.84a98.11,98.11,0,0,1-98-98h28a70,70,0,0,0,139,11.78,14,14,0,0,1,13.82-11.78h0a14,14,0,0,1,13.82,16.3A98.17,98.17,0,0,1,583.5,892.84Z" fill="#ea2727"/>
+    </g>
+    <g>
+      <circle cx="1520" cy="500" r="328" fill="#ff8b00"/>
+      <g clip-path="url(#b060f60c-df0a-4226-a486-63f4ade3dd04)">
+        <ellipse cx="1211.82" cy="574.26" rx="253.99" ry="211.33" transform="translate(592.29 1763.58) rotate(-87.84)" fill="none" stroke="#a05000" stroke-miterlimit="10" stroke-width="16"/>
+        <ellipse cx="1330.91" cy="549.92" rx="393.11" ry="327.08" transform="translate(731.21 1859.15) rotate(-87.84)" fill="none" stroke="#a05000" stroke-miterlimit="10" stroke-width="16"/>
+      </g>
+    </g>
+  </g>
+</svg>

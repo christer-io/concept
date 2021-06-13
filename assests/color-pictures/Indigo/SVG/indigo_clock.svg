@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="fc9e0c93-68cb-4837-8f65-028d0289d0fe">
+      <path d="M566.28,230.85s62-51,97-17,88,85,88,85,10,16,0,46-20,40-20,40Z" fill="#c9c9f4"/>
+    </clipPath>
+    <clipPath id="b4e3662e-327e-4542-8157-9cdbcfe47d0d">
+      <path d="M433.72,230.85s-62-51-97-17-88,85-88,85-10,16,0,46,20,40,20,40Z" fill="#c9c9f4"/>
+    </clipPath>
+    <clipPath id="ba9ae0c4-9a58-4455-bb6f-165325176b7c">
+      <rect x="591.28" y="723.85" width="116" height="51" rx="25.5" transform="translate(578.51 1738.33) rotate(-135)" fill="#c9c9f4"/>
+    </clipPath>
+    <clipPath id="a2658045-19fb-4809-b5d8-27191195f6a7">
+      <rect x="292.28" y="723.85" width="116" height="51" rx="25.5" transform="translate(-427.28 467.16) rotate(-45)" fill="#c9c9f4"/>
+    </clipPath>
+    <clipPath id="bdd74cfb-84ca-48ac-ac98-ff39086a6759">
+      <circle cx="500.28" cy="527.85" r="238" fill="#7900ff"/>
+    </clipPath>
+    <clipPath id="af2870f6-614b-4195-8401-21a0ceba3e40">
+      <circle cx="501.61" cy="527.85" r="192" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="b48dd951-a1da-4ee9-b6e3-48a173345a2d" data-name="Layer 3">
+    <g id="fad73c3e-8c60-428c-a671-412c33a12881" data-name="Layer 4">
+      <g>
+        <g>
+          <path d="M738.28,253.85s-4,22-18,36-81,78-81,78l-51-46,79-85s16-23,32-18Z" fill="#4a00bf"/>
+          <g>
+            <path d="M566.28,230.85s62-51,97-17,88,85,88,85,10,16,0,46-20,40-20,40Z" fill="#c9c9f4"/>
+            <g clip-path="url(#fc9e0c93-68cb-4837-8f65-028d0289d0fe)">
+              <path d="M669.39,218.14S719,278,721,308s-27,56-27,56l39,36,46-92-32-35-77.61-54.86" fill="#b9b9ea"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <path d="M261.72,253.85s4,22,18,36,81,78,81,78l51-46-79-85s-16-23-32-18Z" fill="#4a00bf"/>
+          <g>
+            <path d="M433.72,230.85s-62-51-97-17-88,85-88,85-10,16,0,46,20,40,20,40Z" fill="#c9c9f4"/>
+            <g clip-path="url(#b4e3662e-327e-4542-8157-9cdbcfe47d0d)">
+              <path d="M320,218s95.1-17.29,56.55,72.35h0L430,255l16-37-59-32-48,4Z" fill="#b9b9ea"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <rect x="591.28" y="723.85" width="116" height="51" rx="25.5" transform="translate(578.51 1738.33) rotate(-135)" fill="#c9c9f4"/>
+          <g clip-path="url(#ba9ae0c4-9a58-4455-bb6f-165325176b7c)">
+            <path d="M632,708s49,47,48,63-18,26-35,16l16,22,33,1,22-33-22-43-45-33Z" fill="#b9b9ea"/>
+          </g>
+        </g>
+        <g>
+          <rect x="292.28" y="723.85" width="116" height="51" rx="25.5" transform="translate(-427.28 467.16) rotate(-45)" fill="#c9c9f4"/>
+          <g clip-path="url(#a2658045-19fb-4809-b5d8-27191195f6a7)">
+            <path d="M395,714s-70,102-103,49l-6,21,48,35,48-34,36-60-23-11" fill="#b9b9ea"/>
+          </g>
+        </g>
+        <rect x="476.28" y="272.85" width="63" height="35" fill="#b9b9ea"/>
+        <g>
+          <circle cx="500.28" cy="527.85" r="238" fill="#7900ff"/>
+          <g clip-path="url(#bdd74cfb-84ca-48ac-ac98-ff39086a6759)">
+            <polygon points="588 290 434 797 566 797 725 720 796 520 738 400 588 290" fill="#4a00bf" opacity="0.7"/>
+          </g>
+        </g>
+        <g>
+          <circle cx="501.61" cy="527.85" r="192" fill="#fff"/>
+          <g clip-path="url(#af2870f6-614b-4195-8401-21a0ceba3e40)">
+            <polygon points="572 331 453 728 543 739 645 684 707 599 714 514 673 409 572 331" fill="#b9b9ea" opacity="0.25"/>
+          </g>
+        </g>
+        <rect x="460.28" y="254.85" width="95" height="23" fill="#c9c9f4"/>
+        <g>
+          <rect x="497.11" y="358.85" width="9" height="56" fill="#9b9bd1"/>
+          <rect x="497.11" y="644.85" width="9" height="56" fill="#9b9bd1"/>
+        </g>
+        <g>
+          <rect x="640.11" y="501.85" width="9" height="56" transform="translate(1174.46 -114.76) rotate(90)" fill="#9b9bd1"/>
+          <rect x="354.11" y="501.85" width="9" height="56" transform="translate(888.46 171.24) rotate(90)" fill="#9b9bd1"/>
+        </g>
+        <g>
+          <g>
+            <rect x="573.55" y="379.6" width="9" height="39.65" transform="translate(281.28 -237.45) rotate(30.37)" fill="#c9c9f4"/>
+            <rect x="420.63" y="640.63" width="9" height="39.46" transform="translate(392.23 -124.32) rotate(30.37)" fill="#c9c9f4"/>
+          </g>
+          <g>
+            <rect x="627.64" y="586.64" width="9" height="39.41" transform="translate(1474.89 367.54) rotate(120.37)" fill="#c9c9f4"/>
+            <rect x="366.77" y="433.54" width="9" height="39.85" transform="translate(950.22 362.43) rotate(120.37)" fill="#c9c9f4"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <rect x="626.62" y="432.17" width="9" height="39.92" transform="translate(694.04 -321.68) rotate(59.03)" fill="#c9c9f4"/>
+            <rect x="367.36" y="588.05" width="9" height="39.35" transform="translate(701.6 -23.84) rotate(59.03)" fill="#c9c9f4"/>
+          </g>
+          <g>
+            <rect x="575.13" y="640.47" width="9" height="38.77" transform="translate(1416.17 927.38) rotate(149.03)" fill="#c9c9f4"/>
+            <rect x="419.32" y="380.41" width="9" height="39.63" transform="translate(993.16 525.3) rotate(149.03)" fill="#c9c9f4"/>
+          </g>
+        </g>
+        <circle cx="501.28" cy="527.85" r="21" fill="#2e2835"/>
+        <polygon points="503.78 519.85 495.28 470.83 503.78 433.85 512.28 470.83 503.78 519.85" fill="#2e2835"/>
+        <polygon points="495.05 525.46 591.86 540.82 661.27 566.87 587.75 557.31 495.05 525.46" fill="#2e2835"/>
+      </g>
+    </g>
+  </g>
+</svg>

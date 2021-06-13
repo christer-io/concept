@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="fa1b3f66-8574-4458-b2b1-f36807053c45">
+      <path d="M603,374V671c0,77.2-32.8,113-110,113S380,748.2,380,671V374H273V671a220,220,0,0,0,440,0V374Z" fill="#ea2727"/>
+    </clipPath>
+  </defs>
+  <g style="isolation: isolate">
+    <g id="e55b0ac5-1d43-462f-b14a-4de2bc87b989" data-name="Layer 3">
+      <g>
+        <g>
+          <path d="M603,374V671c0,77.2-32.8,113-110,113S380,748.2,380,671V374H273V671a220,220,0,0,0,440,0V374Z" fill="#ea2727"/>
+          <g clip-path="url(#fa1b3f66-8574-4458-b2b1-f36807053c45)">
+            <rect x="262" y="370" width="130" height="111" fill="#ffe1e1" style="mix-blend-mode: lighten"/>
+            <rect x="591" y="370" width="129" height="111" fill="#ffe1e1" style="mix-blend-mode: lighten"/>
+            <path d="M353,358V583c0,33-7.21,157.8,85.39,192.9h0L454,666,416,342Z" fill="#c10505" opacity="0.46" style="mix-blend-mode: multiply"/>
+            <path d="M681,360V620c0,30,3,168-83,219s-203,41-275-13l75,71,143,10,144-75,59-145-7-330Z" fill="#c10505" opacity="0.46" style="mix-blend-mode: multiply"/>
+          </g>
+        </g>
+        <polygon points="511 102 434 208 543 194 501 284 595 161 478 186 511 102" fill="#ffae2c"/>
+        <polygon points="672.3 203.85 635 273.92 687.81 264.66 667.46 324.15 713 242.85 656.32 259.37 672.3 203.85" fill="#ffae2c"/>
+        <polygon points="321.7 203.85 359 273.92 306.19 264.66 326.54 324.15 281 242.85 337.68 259.37 321.7 203.85" fill="#ffae2c"/>
+      </g>
+    </g>
+  </g>
+</svg>

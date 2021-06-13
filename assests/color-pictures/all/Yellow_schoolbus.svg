@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="eea70260-795d-4bc7-9fa3-ca51a0f4c465">
+      <path d="M124.5,642.25V302A50.45,50.45,0,0,1,175,251.5H684.51a53,53,0,0,1,53,53v144a37,37,0,0,0,37,37h59.55a41.43,41.43,0,0,1,41.43,41.43V642.28a45.23,45.23,0,0,1-45.22,45.22H169.75A45.25,45.25,0,0,1,124.5,642.25Z" fill="#ffd522"/>
+    </clipPath>
+    <clipPath id="bd7ddc1a-3be4-4a3e-b6e1-0303c9cae46b">
+      <rect x="572.01" y="332" width="58.99" height="142" rx="29.32" fill="#ffe3ab"/>
+    </clipPath>
+    <clipPath id="af884e88-c967-4c97-acfb-38f3161e8fcb">
+      <rect x="500" y="487" width="58.99" height="164" rx="29.32" fill="#ffe3ab"/>
+    </clipPath>
+  </defs>
+  <g id="acdcf4ed-aee9-47d9-992f-75943ab4c90d" data-name="Layer 3">
+    <g id="ec91f7d3-d5c7-44fe-a9c6-3d8d9f654411" data-name="Layer 4">
+      <g>
+        <g>
+          <path d="M124.5,642.25V302A50.45,50.45,0,0,1,175,251.5H684.51a53,53,0,0,1,53,53v144a37,37,0,0,0,37,37h59.55a41.43,41.43,0,0,1,41.43,41.43V642.28a45.23,45.23,0,0,1-45.22,45.22H169.75A45.25,45.25,0,0,1,124.5,642.25Z" fill="#ffd522"/>
+          <g clip-path="url(#eea70260-795d-4bc7-9fa3-ca51a0f4c465)">
+            <path d="M660,190S533,574,468,615-3,639-3,639l85,96,872-3-6-520Z" fill="#ffba1f" opacity="0.6"/>
+            <rect x="683" y="332" width="100" height="142" rx="29.32" fill="#ffe3ab"/>
+            <rect x="221" y="332" width="100" height="142" rx="29.32" fill="#ffe3ab"/>
+            <rect x="360" y="334" width="100" height="142" rx="29.32" fill="#ffe3ab"/>
+            <rect x="500" y="332" width="58.99" height="142" rx="29.32" fill="#ffe3ab"/>
+            <g>
+              <rect x="572.01" y="332" width="58.99" height="142" rx="29.32" fill="#ffe3ab"/>
+              <g clip-path="url(#bd7ddc1a-3be4-4a3e-b6e1-0303c9cae46b)">
+                <path d="M660,190S533,574,468,615-3,639-3,639l85,96,872-3-6-520Z" fill="#ffba1f" opacity="0.3"/>
+              </g>
+            </g>
+            <g>
+              <rect x="500" y="487" width="58.99" height="164" rx="29.32" fill="#ffe3ab"/>
+              <g clip-path="url(#af884e88-c967-4c97-acfb-38f3161e8fcb)">
+                <path d="M660,190S533,574,468,615-3,639-3,639l85,96,872-3-6-520Z" fill="#ffba1f" opacity="0.3"/>
+              </g>
+            </g>
+            <rect x="572.01" y="487" width="58.99" height="164" rx="29.32" fill="#ffe3ab"/>
+            <rect x="86" y="332" width="100" height="142" rx="29.32" fill="#ffe3ab"/>
+            <line x1="102.5" y1="557.5" x2="475.5" y2="557.5" fill="none" stroke="#232533" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
+            <line x1="102.5" y1="527.5" x2="475.5" y2="527.5" fill="none" stroke="#232533" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
+            <line x1="660.5" y1="557.5" x2="1033.5" y2="557.5" fill="none" stroke="#232533" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
+            <line x1="660.5" y1="527.5" x2="1033.5" y2="527.5" fill="none" stroke="#232533" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
+            <rect x="683" y="332" width="100" height="142" rx="29.32" fill="#ffba1f" opacity="0.3"/>
+            <rect x="572.01" y="487" width="58.99" height="164" rx="29.32" fill="#ffba1f" opacity="0.3"/>
+          </g>
+        </g>
+        <g>
+          <circle cx="254.5" cy="672.5" r="76" fill="#232533"/>
+          <circle cx="254.5" cy="672.5" r="33.5" fill="#7a7e84"/>
+        </g>
+        <g>
+          <circle cx="736.5" cy="672.5" r="76" fill="#232533"/>
+          <circle cx="736.5" cy="672.5" r="33.5" fill="#7a7e84"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
